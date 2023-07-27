@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class AWolfInSheepsClothing {
+
     public static String warnTheSheep(String[] array) {
 
         int position = array.length - 1 - Arrays.asList(array).indexOf("wolf");
