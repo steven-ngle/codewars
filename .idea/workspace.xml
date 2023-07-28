@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="AWolfInSheepsClothing">
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="MultiplesOf3And5">
+      <change afterPath="$PROJECT_DIR$/src/FindTheUniqueNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,12 +75,20 @@
       <option name="project" value="LOCAL" />
       <updated>1690491250347</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="MultiplesOf3And5">
+      <created>1690559323638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690559323638</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="QuarterOfTheYear" />
     <MESSAGE value="AWolfInSheepsClothing" />
-    <option name="LAST_COMMIT_MESSAGE" value="AWolfInSheepsClothing" />
+    <MESSAGE value="MultiplesOf3And5" />
+    <option name="LAST_COMMIT_MESSAGE" value="MultiplesOf3And5" />
   </component>
 </project>
