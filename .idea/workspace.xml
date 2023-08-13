@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="CountingSheep">
-      <change afterPath="$PROJECT_DIR$/src/CalculateAverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="CalculateAverage" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691838671035</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="CalculateAverage">
+      <option name="closed" value="true" />
+      <created>1691857035341</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691857035341</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,6 +146,7 @@
     <MESSAGE value="OppositeNumber" />
     <MESSAGE value="ConvertAStringToANumber" />
     <MESSAGE value="CountingSheep" />
-    <option name="LAST_COMMIT_MESSAGE" value="CountingSheep" />
+    <MESSAGE value="CalculateAverage" />
+    <option name="LAST_COMMIT_MESSAGE" value="CalculateAverage" />
   </component>
 </project>
