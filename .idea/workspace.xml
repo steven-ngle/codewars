@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="BeginnerSeriesSumOfNumbers">
-      <change afterPath="$PROJECT_DIR$/src/BeginnerReduceButGrow.java" afterDir="false" />
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="BeginnerReduceButGrow">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690580704055</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="BeginnerReduceButGrow">
+      <created>1692541749199</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692541749199</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -106,6 +112,7 @@
     <MESSAGE value="MultiplesOf3And5" />
     <MESSAGE value="FindTheUniqueNumber" />
     <MESSAGE value="BeginnerSeriesSumOfNumbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="BeginnerSeriesSumOfNumbers" />
+    <MESSAGE value="BeginnerReduceButGrow" />
+    <option name="LAST_COMMIT_MESSAGE" value="BeginnerReduceButGrow" />
   </component>
 </project>
