@@ -4,6 +4,10 @@ public class SumWithoutHighestAndLowestNumber {
 
     public static int sum(int[] numbers) {
 
+        if (numbers == null) {
+            return 0;
+        }
+
         int sum = 0;
         Arrays.sort(numbers);
 
