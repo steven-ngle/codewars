@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="SumWithoutHighestAndLowestNumber">
-      <change afterPath="$PROJECT_DIR$/src/ConvertABooleanToAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GrasshopperMessiGoalsFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkfulLogicDrillsTrafficLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirdAngleOfATriangle.java" afterDir="false" />
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="BeginnerReduceButGrow">
+      <change afterPath="$PROJECT_DIR$/src/CreatePhoneNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReversedSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReversedSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +37,7 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -102,60 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690580704055</updated>
     </task>
-    <task id="LOCAL-00008" summary="ReturningStrings">
-      <created>1691783689851</created>
+    <task id="LOCAL-00008" summary="BeginnerReduceButGrow">
+      <created>1692541749199</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1691783689851</updated>
+      <updated>1692541749199</updated>
     </task>
-    <task id="LOCAL-00009" summary="OppositeNumber">
-      <created>1691783876456</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1691783876456</updated>
-    </task>
-    <task id="LOCAL-00010" summary="ConvertAStringToANumber">
-      <created>1691784086093</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1691784086093</updated>
-    </task>
-    <task id="LOCAL-00011" summary="CountingSheep">
-      <option name="closed" value="true" />
-      <created>1691838671035</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1691838671035</updated>
-    </task>
-    <task id="LOCAL-00012" summary="CalculateAverage">
-      <option name="closed" value="true" />
-      <created>1691857035341</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1691857035341</updated>
-    </task>
-    <task id="LOCAL-00013" summary="SumWithoutHighestAndLowestNumber">
-      <option name="closed" value="true" />
-      <created>1693505285266</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1693505285266</updated>
-    </task>
-    <task id="LOCAL-00014" summary="SumWithoutHighestAndLowestNumber">
-      <option name="closed" value="true" />
-      <created>1693505642748</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1693505642748</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,12 +114,7 @@
     <MESSAGE value="MultiplesOf3And5" />
     <MESSAGE value="FindTheUniqueNumber" />
     <MESSAGE value="BeginnerSeriesSumOfNumbers" />
-    <MESSAGE value="ReturningStrings" />
-    <MESSAGE value="OppositeNumber" />
-    <MESSAGE value="ConvertAStringToANumber" />
-    <MESSAGE value="CountingSheep" />
-    <MESSAGE value="CalculateAverage" />
-    <MESSAGE value="SumWithoutHighestAndLowestNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="SumWithoutHighestAndLowestNumber" />
+    <MESSAGE value="BeginnerReduceButGrow" />
+    <option name="LAST_COMMIT_MESSAGE" value="BeginnerReduceButGrow" />
   </component>
 </project>
