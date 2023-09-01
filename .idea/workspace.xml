@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="BeginnerReduceButGrow">
-      <change afterPath="$PROJECT_DIR$/src/CreatePhoneNumber.java" afterDir="false" />
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/PersistentBugger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReversedSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReversedSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="PersistentBugger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersistentBugger" />
+      <module name="codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PersistentBugger" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -105,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692541749199</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit">
+      <created>1693554529599</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693554529599</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,6 +135,7 @@
     <MESSAGE value="FindTheUniqueNumber" />
     <MESSAGE value="BeginnerSeriesSumOfNumbers" />
     <MESSAGE value="BeginnerReduceButGrow" />
-    <option name="LAST_COMMIT_MESSAGE" value="BeginnerReduceButGrow" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
