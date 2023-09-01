@@ -1,19 +1,18 @@
 public class PersistentBugger {
-// muss noch geändert werden
-    public static void main(String[] args) {
-        System.out.println(persistence(999));
-    }
 
     public static int persistence(long n) {
-        int num = (int)n;
-        int rest = 0;
+
         int count = 0;
 
-        while (num > 9) {
-            rest = num % 10;
-            num /= 10;
-            num *= rest;
-            count++;
+        while(n >= 10) {
+            int m = 1;
+
+            while (n > 0) {
+                m *= (n % 10);
+                n /= 10;
+            }
+            n = m;
+            count += 1;
         }
         return count;
     }
