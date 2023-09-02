@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="SquareSum">
-      <change afterPath="$PROJECT_DIR$/src/CountOfPositivesSumOfNegatives.java" afterDir="false" />
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="CountOfPositivesSumOfNegatives">
+      <change afterPath="$PROJECT_DIR$/src/CountByX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KeepHydrated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WelcomeToTheCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WillYouMakeIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculateBMI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.calculateBMI">
     <configuration name="PersistentBugger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PersistentBugger" />
       <module name="codewars" />
@@ -47,8 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="calculateBMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculateBMI" />
+      <module name="codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.calculateBMI" />
         <item itemvalue="Application.PersistentBugger" />
       </list>
     </recent_temporary>
@@ -146,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693591590936</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="CountOfPositivesSumOfNegatives">
+      <created>1693599025667</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693599025667</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,6 +178,7 @@
     <MESSAGE value="commit" />
     <MESSAGE value="PersistentBugger" />
     <MESSAGE value="SquareSum" />
-    <option name="LAST_COMMIT_MESSAGE" value="SquareSum" />
+    <MESSAGE value="CountOfPositivesSumOfNegatives" />
+    <option name="LAST_COMMIT_MESSAGE" value="CountOfPositivesSumOfNegatives" />
   </component>
 </project>
