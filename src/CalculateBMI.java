@@ -1,4 +1,4 @@
-public class calculateBMI {
+public class CalculateBMI {
 
     public static void main(String[] args) {
         System.out.println(bmi(80, 1.80));
