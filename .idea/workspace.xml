@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="SumWithoutHighestAndLowestNumber">
-      <change afterPath="$PROJECT_DIR$/src/ConvertABooleanToAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GrasshopperMessiGoalsFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThinkfulLogicDrillsTrafficLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirdAngleOfATriangle.java" afterDir="false" />
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/SumOfDigitsDigitalRoot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693505642748</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit">
+      <option name="closed" value="true" />
+      <created>1693914017975</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693914017975</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,6 +175,7 @@
     <MESSAGE value="CountingSheep" />
     <MESSAGE value="CalculateAverage" />
     <MESSAGE value="SumWithoutHighestAndLowestNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="SumWithoutHighestAndLowestNumber" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
