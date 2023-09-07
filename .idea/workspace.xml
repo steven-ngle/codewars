@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/ANeedleInTheHaystack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindTheSmallestIntegerInTheArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayDiff.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,7 +176,28 @@
       <option name="project" value="LOCAL" />
       <updated>1693687946543</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit">
+      <created>1694110103426</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694110103426</updated>
+    </task>
+    <task id="LOCAL-00016" summary="commit">
+      <created>1694110131669</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694110131669</updated>
+    </task>
+    <task id="LOCAL-00017" summary="commit">
+      <created>1694110255796</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1694110255796</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
