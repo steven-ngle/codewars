@@ -10,6 +10,6 @@ public class ANeedleInTheHaystack {
                 return "found the needle at position " + i;
             }
         }
-        return "Hi";
+        return "nothing found";
     }
 }
