@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/CountOddNumbersBelowN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ANeedleInTheHaystack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayDiff.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +37,39 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.ArrayDiff">
+    <configuration name="ArrayDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDiff" />
+      <module name="codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersistentBugger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersistentBugger" />
+      <module name="codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calculateBMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculateBMI" />
+      <module name="codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayDiff" />
+        <item itemvalue="Application.calculateBMI" />
+        <item itemvalue="Application.PersistentBugger" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -98,92 +128,56 @@
       <option name="project" value="LOCAL" />
       <updated>1690580704055</updated>
     </task>
-    <task id="LOCAL-00008" summary="ReturningStrings">
-      <created>1691783689851</created>
+    <task id="LOCAL-00008" summary="BeginnerReduceButGrow">
+      <created>1692541749199</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1691783689851</updated>
+      <updated>1692541749199</updated>
     </task>
-    <task id="LOCAL-00009" summary="OppositeNumber">
-      <created>1691783876456</created>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1693554529599</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1691783876456</updated>
+      <updated>1693554529599</updated>
     </task>
-    <task id="LOCAL-00010" summary="ConvertAStringToANumber">
-      <created>1691784086093</created>
+    <task id="LOCAL-00010" summary="commit">
+      <created>1693570859963</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1691784086093</updated>
+      <updated>1693570859963</updated>
     </task>
-    <task id="LOCAL-00011" summary="CountingSheep">
-      <option name="closed" value="true" />
-      <created>1691838671035</created>
+    <task id="LOCAL-00011" summary="PersistentBugger">
+      <created>1693591232305</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1691838671035</updated>
+      <updated>1693591232305</updated>
     </task>
-    <task id="LOCAL-00012" summary="CalculateAverage">
-      <option name="closed" value="true" />
-      <created>1691857035341</created>
+    <task id="LOCAL-00012" summary="SquareSum">
+      <created>1693591590936</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1691857035341</updated>
+      <updated>1693591590936</updated>
     </task>
-    <task id="LOCAL-00013" summary="SumWithoutHighestAndLowestNumber">
-      <option name="closed" value="true" />
-      <created>1693505285266</created>
+    <task id="LOCAL-00013" summary="CountOfPositivesSumOfNegatives">
+      <created>1693599025667</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1693505285266</updated>
+      <updated>1693599025667</updated>
     </task>
-    <task id="LOCAL-00014" summary="SumWithoutHighestAndLowestNumber">
-      <option name="closed" value="true" />
-      <created>1693505642748</created>
+    <task id="LOCAL-00014" summary="commit">
+      <created>1693687946543</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1693505642748</updated>
+      <updated>1693687946543</updated>
     </task>
-    <task id="LOCAL-00015" summary="commit">
-      <option name="closed" value="true" />
-      <created>1693914017975</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1693914017975</updated>
-    </task>
-    <task id="LOCAL-00016" summary="commit">
-      <option name="closed" value="true" />
-      <created>1693914663350</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1693914663350</updated>
-    </task>
-    <task id="LOCAL-00017" summary="commit">
-      <option name="closed" value="true" />
-      <created>1693915152018</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1693915152018</updated>
-    </task>
-    <task id="LOCAL-00018" summary="commit">
-      <option name="closed" value="true" />
-      <created>1693915702105</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1693915702105</updated>
-    </task>
-    <option name="localTasksCounter" value="19" />
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,12 +186,10 @@
     <MESSAGE value="MultiplesOf3And5" />
     <MESSAGE value="FindTheUniqueNumber" />
     <MESSAGE value="BeginnerSeriesSumOfNumbers" />
-    <MESSAGE value="ReturningStrings" />
-    <MESSAGE value="OppositeNumber" />
-    <MESSAGE value="ConvertAStringToANumber" />
-    <MESSAGE value="CountingSheep" />
-    <MESSAGE value="CalculateAverage" />
-    <MESSAGE value="SumWithoutHighestAndLowestNumber" />
+    <MESSAGE value="BeginnerReduceButGrow" />
+    <MESSAGE value="PersistentBugger" />
+    <MESSAGE value="SquareSum" />
+    <MESSAGE value="CountOfPositivesSumOfNegatives" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
