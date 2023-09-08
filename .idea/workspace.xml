@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/FindTheSmallestIntegerInTheArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeginnerSeries2Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertANumberToAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function1HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrasshopperPersonalizedMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InvertValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VolumeOfACuboid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayDiff.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694110255796</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="commit">
+      <created>1694110891982</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1694110891982</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
