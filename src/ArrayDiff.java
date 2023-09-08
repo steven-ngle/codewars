@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ArrayDiff {
+
     public static int[] arrayDiff(int[] a, int[] b) {
 
         List<Integer> result = new ArrayList<>();
