@@ -1,19 +1,28 @@
-import java.util.Arrays;
+import java.util.ArrayList;
+import java.util.List;
 
 public class ArrayDiff {
-// tbd
-
-    public static void main(String[] args) {
-        System.out.println(Arrays.toString(arrayDiff(new int[] {1,2}, new int[] {1}))); // {2}
-        System.out.println(Arrays.toString(arrayDiff(new int[] {1,2,2}, new int[] {1}))); // {2,2}
-        System.out.println(Arrays.toString(arrayDiff(new int[] {1,2,2}, new int[] {2}))); // {1}
-        System.out.println(Arrays.toString(arrayDiff(new int[] {1,2,2}, new int[] {}))); // {1,2,2}
-        System.out.println(Arrays.toString(arrayDiff(new int[] {}, new int[] {1,2}))); // {}
-    }
     public static int[] arrayDiff(int[] a, int[] b) {
 
-        int[] arr = new int[];
+        List<Integer> result = new ArrayList<>();
 
-        return arr;
+        for (int num : a) {
+            boolean shouldAdd = true;
+            for (int val : b) {
+                if (num == val) {
+                    shouldAdd = false;
+                    break;
+                }
+            }
+            if (shouldAdd) {
+                result.add(num);
+            }
+        }
+
+        int[] resultArray = new int[result.size()];
+        for (int i = 0; i < result.size(); i++) {
+            resultArray[i] = result.get(i);
+        }
+        return resultArray;
     }
 }
