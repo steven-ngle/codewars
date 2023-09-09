@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="FindTheNextPerfectSquare">
+      <change afterPath="$PROJECT_DIR$/src/L1SetAlarm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TODO_SCOPE": "All Places"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.TwoSum">
     <configuration name="ArrayDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayDiff" />
@@ -269,7 +269,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694249754380</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="TwoSum">
+      <created>1694251053908</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1694251053908</updated>
+    </task>
+    <task id="LOCAL-00028" summary="FindTheNextPerfectSquare">
+      <created>1694252756417</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1694252756417</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,6 +308,8 @@
     <MESSAGE value="SquareSum" />
     <MESSAGE value="CountOfPositivesSumOfNegatives" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="TwoSum" />
+    <MESSAGE value="FindTheNextPerfectSquare" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindTheNextPerfectSquare" />
   </component>
 </project>
