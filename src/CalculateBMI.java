@@ -1,8 +1,5 @@
 public class CalculateBMI {
 
-    public static void main(String[] args) {
-        System.out.println(bmi(80, 1.80));
-    }
     public static String bmi(double weight, double height) {
 
         double i = weight / (height * height);

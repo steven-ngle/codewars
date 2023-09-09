@@ -1,4 +1,4 @@
-public class isThisATriangle {
+public class IsThisATriangle {
 
     public static boolean isTriangle(int a, int b, int c){
 
