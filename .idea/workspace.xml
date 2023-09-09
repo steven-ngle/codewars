@@ -4,9 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="FindTheNextPerfectSquare">
-      <change afterPath="$PROJECT_DIR$/src/L1SetAlarm.java" afterDir="false" />
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ANeedleInTheHaystack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/ANeedleInTheHaystack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AWolfInSheepsClothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/AWolfInSheepsClothing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu6/ArrayDiff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BeginnerLostWithoutAMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/BeginnerLostWithoutAMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BeginnerReduceButGrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/BeginnerReduceButGrow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BeginnerSeries1SchoolPaperwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/BeginnerSeries1SchoolPaperwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BeginnerSeries2Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/BeginnerSeries2Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BeginnerSeriesSumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu7/BeginnerSeriesSumOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculateAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/CalculateAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculateBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/CalculateBMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConvertABooleanToAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/ConvertABooleanToAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConvertANumberToAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/ConvertANumberToAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConvertAStringToANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/ConvertAStringToANumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountByX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/CountByX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountOddNumbersBelowN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/CountOddNumbersBelowN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountOfPositivesSumOfNegatives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/CountOfPositivesSumOfNegatives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountingSheep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/CountingSheep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreatePhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu6/CreatePhoneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/EvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindTheNextPerfectSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu7/FindTheNextPerfectSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindTheOddInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu6/FindTheOddInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindTheSmallestIntegerInTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/FindTheSmallestIntegerInTheArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindTheUniqueNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu6/FindTheUniqueNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Function1HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/Function1HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GrasshopperMessiGoalsFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/GrasshopperMessiGoalsFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GrasshopperPersonalizedMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/GrasshopperPersonalizedMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HowGoodAreYouReally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/HowGoodAreYouReally.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InvertValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/InvertValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IsNDivisibleByXAndY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/IsNDivisibleByXAndY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IsThisATriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu7/IsThisATriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KeepHydrated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/KeepHydrated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L1SetAlarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/L1SetAlarm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MakeUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/MakeUpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiplesOf3And5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu6/MultiplesOf3And5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OppositeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/OppositeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PersistentBugger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu6/PersistentBugger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuarterOfTheYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/QuarterOfTheYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemovingElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/RemovingElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReturningStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/ReturningStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReversedSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/ReversedSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/SimpleMultiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SquareSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/SquareSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfDigitsDigitalRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu6/SumOfDigitsDigitalRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumWithoutHighestAndLowestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/SumWithoutHighestAndLowestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThinkfulLogicDrillsTrafficLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/ThinkfulLogicDrillsTrafficLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdAngleOfATriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/ThirdAngleOfATriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu6/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VolumeOfACuboid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/VolumeOfACuboid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WelcomeToTheCity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/WelcomeToTheCity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WhoLikesIt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu6/WhoLikesIt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WillYouMakeIt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/WillYouMakeIt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YouCantCodeUnderPressure1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu8/YouCantCodeUnderPressure1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,21 +93,21 @@
 }</component>
   <component name="RunManager" selected="Application.TwoSum">
     <configuration name="ArrayDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayDiff" />
+      <option name="MAIN_CLASS_NAME" value="kyu6.ArrayDiff" />
       <module name="codewars" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PersistentBugger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PersistentBugger" />
+      <option name="MAIN_CLASS_NAME" value="kyu6.PersistentBugger" />
       <module name="codewars" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSum" />
+      <option name="MAIN_CLASS_NAME" value="kyu6.TwoSum" />
       <module name="codewars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -283,7 +334,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694252756417</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="L1SetAlarm">
+      <created>1694285659085</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1694285659085</updated>
+    </task>
+    <task id="LOCAL-00030" summary="commit">
+      <created>1694285721316</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1694285721316</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,9 +372,10 @@
     <MESSAGE value="PersistentBugger" />
     <MESSAGE value="SquareSum" />
     <MESSAGE value="CountOfPositivesSumOfNegatives" />
-    <MESSAGE value="commit" />
     <MESSAGE value="TwoSum" />
     <MESSAGE value="FindTheNextPerfectSquare" />
-    <option name="LAST_COMMIT_MESSAGE" value="FindTheNextPerfectSquare" />
+    <MESSAGE value="L1SetAlarm" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
