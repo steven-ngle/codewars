@@ -8,7 +8,6 @@ public class Scramblies {
 
         int[] count = new int[26];
 
-
         for (char c : str1.toCharArray()) {
             int index = c - 'a';
             count[index]++;
