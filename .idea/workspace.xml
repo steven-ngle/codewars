@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="CollatzConjecture3nPlus1" />
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="CollatzConjecture3nPlus1">
+      <change afterPath="$PROJECT_DIR$/src/kyu7/ListFiltering.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
