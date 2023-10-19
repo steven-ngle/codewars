@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="CollatzConjecture3nPlus1">
-      <change afterPath="$PROJECT_DIR$/src/kyu7/ListFiltering.java" afterDir="false" />
-    </list>
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="OddOrEven" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -236,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697216159611</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="OddOrEven">
+      <option name="closed" value="true" />
+      <created>1697735722991</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1697735722991</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,6 +268,7 @@
     <MESSAGE value="CountOfPositivesSumOfNegatives" />
     <MESSAGE value="commit" />
     <MESSAGE value="CollatzConjecture3nPlus1" />
-    <option name="LAST_COMMIT_MESSAGE" value="CollatzConjecture3nPlus1" />
+    <MESSAGE value="OddOrEven" />
+    <option name="LAST_COMMIT_MESSAGE" value="OddOrEven" />
   </component>
 </project>
