@@ -1,0 +1,16 @@
+Index: src/ArrayDiff.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import java.util.Arrays;\r\n\r\npublic class ArrayDiff {\r\n// tbd\r\n\r\n    public static void main(String[] args) {\r\n        System.out.println(Arrays.toString(arrayDiff(new int[] {1,2}, new int[] {1}))); // {2}\r\n        System.out.println(Arrays.toString(arrayDiff(new int[] {1,2,2}, new int[] {1}))); // {2,2}\r\n        System.out.println(Arrays.toString(arrayDiff(new int[] {1,2,2}, new int[] {2}))); // {1}\r\n        System.out.println(Arrays.toString(arrayDiff(new int[] {1,2,2}, new int[] {}))); // {1,2,2}\r\n        System.out.println(Arrays.toString(arrayDiff(new int[] {}, new int[] {1,2}))); // {}\r\n    }\r\n    public static int[] arrayDiff(int[] a, int[] b) {\r\n\r\n        int[] arr = new int[];\r\n\r\n        return arr;\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/ArrayDiff.java b/src/ArrayDiff.java
+--- a/src/ArrayDiff.java	
++++ b/src/ArrayDiff.java	
+@@ -2,7 +2,6 @@
+ 
+ public class ArrayDiff {
+ // tbd
+-
+     public static void main(String[] args) {
+         System.out.println(Arrays.toString(arrayDiff(new int[] {1,2}, new int[] {1}))); // {2}
+         System.out.println(Arrays.toString(arrayDiff(new int[] {1,2,2}, new int[] {1}))); // {2,2}

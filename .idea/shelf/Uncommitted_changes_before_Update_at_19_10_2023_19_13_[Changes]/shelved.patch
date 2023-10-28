@@ -1,0 +1,26 @@
+Index: src/kyu7/OddOrEven.java
+===================================================================
+diff --git a/src/kyu7/OddOrEven.java b/src/kyu7/OddOrEven.java
+deleted file mode 100644
+--- a/src/kyu7/OddOrEven.java	(revision cacce38143dc0479ce12d183436cd2a649b05f76)
++++ /dev/null	(revision cacce38143dc0479ce12d183436cd2a649b05f76)
+@@ -1,19 +0,0 @@
+-package kyu7;
+-
+-public class OddOrEven {
+-
+-    public static String oddOrEven (int[] array) {
+-
+-        int sum = 0;
+-
+-        for (int i : array) {
+-            sum += i;
+-        }
+-
+-        if (sum % 2 == 0) {
+-            return "even";
+-        }
+-
+-        return "odd";
+-    }
+-}
