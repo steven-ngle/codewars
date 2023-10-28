@@ -19,7 +19,6 @@ public class FakeBinary {
         }
 
         String res = new String(ch);
-
         return res;
     }
 }
