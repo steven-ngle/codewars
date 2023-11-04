@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="GetPlanetNameByID">
-      <change afterPath="$PROJECT_DIR$/src/kyu6/BreakCamelCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="Scramblies">
+      <change beforePath="$PROJECT_DIR$/src/kyu5/Scramblies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu5/Scramblies.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +25,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
   <component name="ProjectId" id="2TANn03RGAlqqobcsRBibacSRHz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,23 +36,30 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BreakCamelCase">
+  <component name="RunManager" selected="Application.Scramblies">
     <configuration name="ArrayDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayDiff" />
+      <option name="MAIN_CLASS_NAME" value="kyu6.ArrayDiff" />
       <module name="codewars" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakCamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu6.BreakCamelCase" />
+    <configuration name="PersistentBugger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu6.PersistentBugger" />
+      <module name="codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scramblies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu5.Scramblies" />
       <module name="codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu6.*" />
+          <option name="PATTERN" value="kyu5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersistentBugger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PersistentBugger" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu6.TwoSum" />
       <module name="codewars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,7 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BreakCamelCase" />
+        <item itemvalue="Application.Scramblies" />
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.ArrayDiff" />
         <item itemvalue="Application.calculateBMI" />
         <item itemvalue="Application.PersistentBugger" />
@@ -243,39 +247,84 @@
       <option name="project" value="LOCAL" />
       <updated>1694160105565</updated>
     </task>
-    <task id="LOCAL-00022" summary="CollatzConjecture3nPlus1">
-      <option name="closed" value="true" />
-      <created>1697216159611</created>
+    <task id="LOCAL-00022" summary="commit">
+      <created>1694160285335</created>
       <option name="number" value="00022" />
       <option name="presentableId" value="LOCAL-00022" />
       <option name="project" value="LOCAL" />
-      <updated>1697216159611</updated>
+      <updated>1694160285335</updated>
     </task>
-    <task id="LOCAL-00023" summary="OddOrEven">
-      <option name="closed" value="true" />
-      <created>1697735722991</created>
+    <task id="LOCAL-00023" summary="commit">
+      <created>1694160365581</created>
       <option name="number" value="00023" />
       <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
-      <updated>1697735722991</updated>
+      <updated>1694160365581</updated>
     </task>
-    <task id="LOCAL-00024" summary="GrasshopperTerminalGameMoveFunction">
-      <option name="closed" value="true" />
-      <created>1697736145537</created>
+    <task id="LOCAL-00024" summary="commit">
+      <created>1694200091866</created>
       <option name="number" value="00024" />
       <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1697736145537</updated>
+      <updated>1694200091866</updated>
     </task>
-    <task id="LOCAL-00025" summary="GetPlanetNameByID">
-      <option name="closed" value="true" />
-      <created>1698594395745</created>
+    <task id="LOCAL-00025" summary="commit">
+      <created>1694200138159</created>
       <option name="number" value="00025" />
       <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1698594395747</updated>
+      <updated>1694200138159</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="commit">
+      <created>1694249754380</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1694249754380</updated>
+    </task>
+    <task id="LOCAL-00027" summary="TwoSum">
+      <created>1694251053908</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1694251053908</updated>
+    </task>
+    <task id="LOCAL-00028" summary="FindTheNextPerfectSquare">
+      <created>1694252756417</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1694252756417</updated>
+    </task>
+    <task id="LOCAL-00029" summary="L1SetAlarm">
+      <created>1694285659085</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1694285659085</updated>
+    </task>
+    <task id="LOCAL-00030" summary="commit">
+      <created>1694285721316</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1694285721316</updated>
+    </task>
+    <task id="LOCAL-00031" summary="commit">
+      <created>1694293181765</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1694293181765</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Scramblies">
+      <created>1694453934070</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1694453934070</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -299,11 +348,11 @@
     <MESSAGE value="PersistentBugger" />
     <MESSAGE value="SquareSum" />
     <MESSAGE value="CountOfPositivesSumOfNegatives" />
+    <MESSAGE value="TwoSum" />
+    <MESSAGE value="FindTheNextPerfectSquare" />
+    <MESSAGE value="L1SetAlarm" />
     <MESSAGE value="commit" />
-    <MESSAGE value="CollatzConjecture3nPlus1" />
-    <MESSAGE value="OddOrEven" />
-    <MESSAGE value="GrasshopperTerminalGameMoveFunction" />
-    <MESSAGE value="GetPlanetNameByID" />
-    <option name="LAST_COMMIT_MESSAGE" value="GetPlanetNameByID" />
+    <MESSAGE value="Scramblies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scramblies" />
   </component>
 </project>
