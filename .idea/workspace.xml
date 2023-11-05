@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="BreakCamelCase">
-      <change afterPath="$PROJECT_DIR$/src/kyu6/WriteNumberInExpandedForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu8/ArrayPlusArray.java" afterDir="false" />
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="5.11.23">
+      <change afterPath="$PROJECT_DIR$/src/kyu8/ConvertBooleanValuesToStringsYesOrNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kyu8/JennysSecretMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kyu8/YouOnlyNeedOneBeginner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -276,7 +277,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698594395747</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="5.11.23">
+      <option name="closed" value="true" />
+      <created>1699201561490</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1699201561490</updated>
+    </task>
+    <task id="LOCAL-00027" summary="5.11.23">
+      <option name="closed" value="true" />
+      <created>1699201721924</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1699201721924</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,6 +322,7 @@
     <MESSAGE value="OddOrEven" />
     <MESSAGE value="GrasshopperTerminalGameMoveFunction" />
     <MESSAGE value="GetPlanetNameByID" />
-    <option name="LAST_COMMIT_MESSAGE" value="GetPlanetNameByID" />
+    <MESSAGE value="5.11.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.11.23" />
   </component>
 </project>
