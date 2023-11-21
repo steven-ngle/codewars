@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="5.11.23">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="CountCharactersInYourString" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -298,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699202373510</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="CountCharactersInYourString">
+      <option name="closed" value="true" />
+      <created>1699788646954</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1699788646954</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,6 +334,7 @@
     <MESSAGE value="GrasshopperTerminalGameMoveFunction" />
     <MESSAGE value="GetPlanetNameByID" />
     <MESSAGE value="5.11.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.11.23" />
+    <MESSAGE value="CountCharactersInYourString" />
+    <option name="LAST_COMMIT_MESSAGE" value="CountCharactersInYourString" />
   </component>
 </project>
