@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="GrasshopperArrayMean">
-      <change afterPath="$PROJECT_DIR$/src/kyu7/TheHighestProfitWins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu8/FilteringEvenNumbersBugFixes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu8/KeepUpTheHoop.java" afterDir="false" />
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="22.11.23">
+      <change afterPath="$PROJECT_DIR$/src/kyu6/CountingDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kyu7/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kyu8/RemoveExclamationMarks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kyu6/WriteNumberInExpandedForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kyu6/WriteNumberInExpandedForm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700609632760</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="22.11.23">
+      <option name="closed" value="true" />
+      <created>1700610765078</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1700610765078</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -350,6 +357,7 @@
     <MESSAGE value="5.11.23" />
     <MESSAGE value="CountCharactersInYourString" />
     <MESSAGE value="GrasshopperArrayMean" />
-    <option name="LAST_COMMIT_MESSAGE" value="GrasshopperArrayMean" />
+    <MESSAGE value="22.11.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="22.11.23" />
   </component>
 </project>
