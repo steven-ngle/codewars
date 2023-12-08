@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="CountTheSmileyFaces">
-      <change afterPath="$PROJECT_DIR$/src/kyu6/WhichAreIn.java" afterDir="false" />
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="WhichAreIn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -369,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701773698748</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="WhichAreIn">
+      <option name="closed" value="true" />
+      <created>1701785251355</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1701785251355</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -405,6 +412,7 @@
     <MESSAGE value="2.12.23" />
     <MESSAGE value="Isograms.java" />
     <MESSAGE value="CountTheSmileyFaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="CountTheSmileyFaces" />
+    <MESSAGE value="WhichAreIn" />
+    <option name="LAST_COMMIT_MESSAGE" value="WhichAreIn" />
   </component>
 </project>
