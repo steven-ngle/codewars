@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="HighestAndLowest">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="88c34eea-d294-4607-862a-8a1126a85712" name="Changes" comment="FindTheParityOutlier">
+      <change afterPath="$PROJECT_DIR$/src/kyu6/DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +127,7 @@
       <workItem from="1702054079639" duration="10000" />
       <workItem from="1702148713889" duration="665000" />
       <workItem from="1702209472378" duration="23000" />
+      <workItem from="1702997270612" duration="572000" />
     </task>
     <task id="LOCAL-00001" summary="QuarterOfTheYear">
       <created>1690482209459</created>
@@ -427,7 +428,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702149375322</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="FindTheParityOutlier">
+      <option name="closed" value="true" />
+      <created>1702997354486</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1702997354486</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +454,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="AWolfInSheepsClothing" />
     <MESSAGE value="MultiplesOf3And5" />
     <MESSAGE value="FindTheUniqueNumber" />
     <MESSAGE value="BeginnerSeriesSumOfNumbers" />
@@ -470,6 +478,7 @@
     <MESSAGE value="NextBiggerNumberWithTheSameDigits" />
     <MESSAGE value="RegexpBasicsIsItALetter" />
     <MESSAGE value="HighestAndLowest" />
-    <option name="LAST_COMMIT_MESSAGE" value="HighestAndLowest" />
+    <MESSAGE value="FindTheParityOutlier" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindTheParityOutlier" />
   </component>
 </project>
